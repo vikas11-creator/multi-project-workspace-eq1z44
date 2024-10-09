@@ -1,4 +1,5 @@
 # AngularAppOfApps
+#Refer this link
 https://medium.com/disney-streaming/combining-multiple-angular-applications-into-a-single-one-e87d530d6527
 Refer this file
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
